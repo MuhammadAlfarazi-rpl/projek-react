@@ -4,8 +4,8 @@ import Signup from "./views/signup.jsx";
 import Users from "./views/users.jsx";
 import NotFound from "./views/NotFound.jsx";
 import DefaultLayout from "./components/DefaultLayout.jsx";
-import GuessLayout from "./components/GuessLayout.jsx";
 import Dashboard from "./views/dashboard.jsx";
+import GuessLayout from "./components/GuesTLayout.jsx";
 
 const router = createBrowserRouter([
   {
