@@ -1,7 +1,7 @@
-export default function Signup() {
+export default function Users() {
     return (
         <div>
-            Signup
+            Users
         </div>
     )
 }
