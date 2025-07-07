@@ -11,8 +11,8 @@ export default function Login() {
             <div className="form">
                 <form onSubmit={onSubmit}>
                     <h1 className="title">Login Bro</h1>
-                    <input type="email" placeholder="Email Adress"/>
-                    <input type="password" placeholder="Password Confirmation"/>
+                    <input type="email" placeholder="Email"/>
+                    <input type="password" placeholder="Password"/>
                     <button className="btn btn-block">Signup</button>
                     <p className="message">
                         Not Registered? <Link to="/Signup">Create an Account</Link>
