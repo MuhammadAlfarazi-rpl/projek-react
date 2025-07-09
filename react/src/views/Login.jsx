@@ -13,7 +13,7 @@ export default function Login() {
                     <h1 className="title">Login Bro</h1>
                     <input type="email" placeholder="Email"/>
                     <input type="password" placeholder="Password"/>
-                    <button className="btn btn-block">Signup</button>
+                    <button className="btn btn-block">Login</button>
                     <p className="message">
                         Not Registered? <Link to="/Signup">Create an Account</Link>
                     </p>
